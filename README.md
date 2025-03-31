@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pavanvanarse
-- 👀 I’m interested in USE OF AI
-- 🌱 I’m currently learning DATA SCIENCE WITH AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 I’m interested in THE TECHNOLOGY OF AI.
+- 🌱 I’m currently learning DATA SCIENCE WITH AI.
+- 💞️ I’m looking to collaborate on ANY WORK ON AI.
+- 📫 How to reach me PAVANVANARSE7@GMAIL.COM
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
